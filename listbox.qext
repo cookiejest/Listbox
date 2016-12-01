@@ -1,0 +1,9 @@
+{
+	"name": "Listbox",
+	"description": "Listbox Extension",
+	"icon": "list",
+	"type": "visualization",
+	"version": 1,
+	"preview": "listbox.png",
+	"author": ""
+}
